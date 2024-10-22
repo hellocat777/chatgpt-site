@@ -19,22 +19,9 @@
 - [https://www.yixiaai.com/](https://www.yixiaai.com/) - 支持 GPT4、4o 以及 o1，支持 MJ 绘画
 - [https://chat.lify.vip/](https://chat.lify.vip/) - 支持 GPT4、4o 以及 o1
 - [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - 支持 GPT4、4o 支持 MJ 绘画
-- [http://chat.forwardminded.xyz/](http://chat.forwardminded.xyz/)
-- [https://ssgpt.chat/](https://ssgpt.chat/) - 支持 4o 
-- [https://gezhe.com/](https://gezhe.com/) 
-- [http://www.gpt-smart.com/](http://www.gpt-smart.com/)
-- [https://chat.mac89.com/](https://chat.mac89.com/)
-- [https://front2.stargpt.top/#/chat](https://front2.stargpt.top/#/chat)
-- [https://chatgpt.ctfcode.com/#/register](https://chatgpt.ctfcode.com/#/register)
-- [http://chat.niitcxl.cn](http://chat.niitcxl.cn)
-- [https://dittin.com/](https://dittin.com/)
-- [https://chat.yokonsan.com/](https://chat.yokonsan.com/)
-- [https://chat.douresources.com](https://chat.douresources.com)
-- [https://gpthink.xyz/#/chat](https://gpthink.xyz/#/chat)
-- [https://gpt.fly2you.cn/web/](https://gpt.fly2you.cn/web/)
-- [http://ai.wikll.com](http://ai.wikll.com)
-- [http://chat.iisai.cn](http://chat.iisai.cn)
-- [http://mychatos.top/#/chat](http://mychatos.top/#/chat)
+- [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - 支持 GPT4、4o 以及 o1
+- [https://lanjing.ai/](https://lanjing.ai/) - 支持 4o 
+
 ## 国内自研大模型汇总
 
 - [https://yiyan.baidu.com/](https://yiyan.baidu.com/) - 文心一言，百度出品
